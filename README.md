@@ -2,7 +2,7 @@
 
 This is a study I did with Z. Tuba Suzer-Gurtekin, Assistant Research Scientist, Survey Research Center, University of Michigan. We studied how nonresponse pattern changes in American Time Use Survey (ATUS) from 2004 to 2016. The sample of ATUS is draw from Current Population Survey (CPS) respondents, so we have comparable information for both ATUS respondents and nonrespondents, such as age, marital status, education, presence of children, etc. We applied logistic regression to analyze the data and I presented the result at the 2019 annual conference of Midwest Association for Public Opinion Research (MAPOR). After the presentation, we applied classification tree method for further analysis. 
 
-The SAS program ("NonresponseATUS_update2018_weighted.sas") includes how we cleaned and preprocessed data that we extracted from [IPUMS TIME USE](https://timeuse.ipums.org/) and [IPUMS CPS](https://cps.ipums.org/cps/). It also includes how we analyzed the data using logistic regression and classification tree method. The steps in the program code are listed in "Steps in data cleaning and analysis.docx".
+[The SAS program](NonresponseATUS_update2018_weighted.sas) (["NonresponseATUS_update2018_weighted.sas"](NonresponseATUS_update2018_weighted.sas)) includes how we cleaned and preprocessed data that we extracted from [IPUMS TIME USE](https://timeuse.ipums.org/) and [IPUMS CPS](https://cps.ipums.org/cps/). It also includes how we analyzed the data using logistic regression and classification tree method. The steps in the program code are listed in ["Steps in data cleaning and analysis.docx"](Steps in data cleaning and analysis.docx).
 
 
 Here is a brief summary of our analysis result:
